@@ -18,7 +18,7 @@ This component adds a new model configuration to the AXP2101 sensor which determ
 
 ```yaml
 external_components:
-  - source: github://stefanthoss/esphome-axp2101
+  - source: github://stefanthoss/esphome-axp2101-Dom
     components: [ axp2101 ]
 ```
 
